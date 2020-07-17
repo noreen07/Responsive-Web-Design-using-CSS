@@ -1,3 +1,2 @@
-# practice
-Practice projects to become a better web developer
-Hello Everyone! These are some work I did through my classes - hoping to become a better web developer one step at a time!
+# practice #css
+This is a project I did while learning more about responsive web design. I worked on the css code in order to ensure that the site's appearance is not compromised when used in a variety of devices.
